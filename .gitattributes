@@ -1,0 +1,5 @@
+*.sql linguist-detectable=true
+
+## Test SQL
+
+*.sql linguist-language=sql
