@@ -1,3 +1,5 @@
-# SQL 'language' to be recongnized
+# Adjusting to SQL 'language' to be recongnized
+
 *.sql linguist-detectable=true
+
 *.sql linguist-language=sql
