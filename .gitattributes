@@ -1,5 +1,3 @@
+# SQL 'language' to be recongnized
 *.sql linguist-detectable=true
-
-## Test SQL
-
 *.sql linguist-language=sql
