@@ -1,4 +1,4 @@
-# Adjusting to SQL 'language' to be recongnized
+# Adjusting to SQL 'language' to be recongnized in github
 
 *.sql linguist-detectable=true
 
